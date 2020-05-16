@@ -35,8 +35,8 @@ public class ExtentFile {
 			extent.setSystemInfo("Host Name", "Pranay Windows");
 			extent.setSystemInfo("User Name", "Pranay");
 			extent.setSystemInfo("Environment", "QA");
-	        htmlReporter.config().setDocumentTitle("AutomationTesting.in Demo Report");
-	        htmlReporter.config().setReportName("My Own Report");
+	        htmlReporter.config().setDocumentTitle("ApiTest Demo Report");
+	        htmlReporter.config().setReportName("Booking Test Execution Report");
 	        htmlReporter.config().setTheme(Theme.DARK);
 
 	}
