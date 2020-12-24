@@ -18,7 +18,7 @@
   </properties>
 
   <modules>
-    <module>RestAssured</module>
+    <module>RestAssured/RestAssured</module>
   </modules>
 
   <distributionManagement>
