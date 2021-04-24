@@ -10,7 +10,7 @@ public class DateUtils {
 	public static Date DateFormatter(String date,String format) throws ParseException
 	{ 
 			System.out.println(format+"create aconfilic mammaiahoisafnfebkjrgbfiurbgrgbrigbreigbiugbgrii");
-			System.out.println("MY Code");
+			System.out.println("MY Code+ jave e  jsbdkjabsdjkbdbdfkjbdkjfb");
 		    Date date1=new SimpleDateFormat(format).parse(date);
 		    return date1;
 	}
